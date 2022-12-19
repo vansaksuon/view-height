@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0
+}
+body{
+  height: 100vh;
+  height: -webkit-fill-available;
+  background: skyblue;
+  display: flex;
+  flex-direction: column;
+}
+.one{
+  height: 160px;
+  background: orangered;
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: whitesmoke;
+}
+.two{
+  margin-top: 20px;
+  overflow-y: scroll;
+  padding: 0 20px;
+  height: -webkit-fill-available;
+  flex: 1 1 0%;
+}
