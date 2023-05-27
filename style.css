@@ -12,7 +12,7 @@ body{
 }
 .one{
   height: 160px;
-  margin:4px
+  margin:4px;
   border :1px solid red;
   position: sticky;
   display: flex;
