@@ -14,7 +14,7 @@ body{
   height: 160px;
   margin:4px
   border :1px solid red;
-  /*position: sticky;*/
+  position: sticky;
   display: flex;
   justify-content: center;
   align-items: center;
