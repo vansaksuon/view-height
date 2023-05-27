@@ -4,14 +4,15 @@
 }
 body{
   height: 100vh;
+  padding:4px
   height: -webkit-fill-available;
-  background: skyblue;
+  border: blue dash 1px
   display: flex;
   flex-direction: column;
 }
 .one{
   height: 160px;
-  background: orangered;
+  margin:4px
   /*position: sticky;*/
   display: flex;
   justify-content: center;
@@ -20,7 +21,7 @@ body{
   color: whitesmoke;
 }
 .two{
-  margin-top: 20px;
+  margin-top: 20px 4px 4px;
   overflow-y: auto;
   padding: 20px;
   /*height: -webkit-fill-available;*/
