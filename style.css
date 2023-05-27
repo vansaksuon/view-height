@@ -21,7 +21,7 @@ body{
 }
 .two{
   margin-top: 20px;
-  overflow-y: scroll;
+  overflow-y: auto;
   padding: 0 20px;
   /*height: -webkit-fill-available;*/
   flex: 1 1 0%;
