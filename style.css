@@ -4,9 +4,9 @@
 }
 body{
   height: 100vh;
-  padding:4px
+  padding:4px;
   height: -webkit-fill-available;
-  border: blue dash 1px
+  border: blue dash 1px;
   display: flex;
   flex-direction: column;
 }
