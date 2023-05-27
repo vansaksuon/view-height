@@ -23,6 +23,6 @@ body{
   margin-top: 20px;
   overflow-y: scroll;
   padding: 0 20px;
-  height: -webkit-fill-available;
+  /*height: -webkit-fill-available;*/
   flex: 1 1 0%;
 }
