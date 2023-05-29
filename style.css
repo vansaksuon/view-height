@@ -28,3 +28,6 @@ body{
   /*height: -webkit-fill-available;*/
   flex: 1 1 0%;
 }
+.video{
+  padding: 20px
+}
